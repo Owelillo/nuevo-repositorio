@@ -4,7 +4,7 @@ public class prueba {
 
 		System.out.println("Rojas Barredo");
 		System.out.println("Edad: 18");
-		
+		System.out.println("Fecha de nacimiento: 2005");
 	}
 }
 
